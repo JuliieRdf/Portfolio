@@ -1,0 +1,37 @@
+body{
+  background-color: #F3DFF6!important;
+}
+
+nav.navbar.navbar-light.bg-light.justify-content-between {
+  background-color: #ffffff00 !important;
+}
+
+
+.timeline.timeline-one .timeline-item:before {
+
+
+  border: 0.0625rem solid #7A5180 !important;
+
+}
+
+.row {
+
+  --bs-gutter-x: 0rem!important;
+
+}
+
+
+.timeline.timeline-one .timeline-item:after {
+
+  background-color: #7A5180 !important;
+}
+
+#title {
+  margin-top: 30vh;
+}
+
+#subTitle {
+  margin-top: 20vh;
+}
+
+

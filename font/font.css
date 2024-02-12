@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'Philosopher';
+    src: url('Philosopher-Regular.ttf') format('truetype'); /* Utilisez 'truetype' pour les fichiers TTF */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('Montserrat-Regular.otf') format('opentype'); /* Utilisez 'opentype' pour les fichiers OTF */
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Philosopher', 'Montserrat', sans-serif; /* Utilisez une liste de polices séparées par des virgules */
+}
+
+h1 {
+    z-index: 1;
+    color: #FFF;
+    font-family: Philosopher;
+    font-size: 62px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h2 {
+    z-index: 1;
+    color: #212222;
+    font-family: Philosopher;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+h3 {
+    color: #FFF;
+    font-family: Philosopher;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h3 {
+    color: #212222;
+    font-family: Philosopher;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+p {
+    color: #212222;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
